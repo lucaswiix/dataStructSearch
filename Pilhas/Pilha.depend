@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528603633 source:d:\aulas c\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
